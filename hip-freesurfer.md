@@ -12,27 +12,27 @@ If you use Freesurfer in your research, [use this page to cite the relevant publ
 
 1. **Connect to the HIP**. You can manage your files in the default page.
 
-![Files](img/hip-freesurfer\Files.JPG)
+![Files](img/hip-freesurfer/Files.JPG)
 
 2. On the top line, click on the HIP to **access application sessions**
 
-![Apps](img/hip-freesurfer\Apps.JPG)
+![Apps](img/hip-freesurfer/Apps.JPG)
 
 3. Click on the Freesurfer icon. 
 
-![FreesurferIcon](img/hip-freesurfer\FreesurferIcon.JPG)
+![FreesurferIcon](img/hip-freesurfer/FreesurferIcon.JPG)
 
 4. You can choose to create a new **session for Freesurfer** or to run it in an existing session (in this example #1)
 
-![OpenSession](img/hip-freesurfer\OpenSession.JPG)
+![OpenSession](img/hip-freesurfer/OpenSession.JPG)
 
 5. A terminal opens with Freesurfer installed. You can run any Freesurfer command in it (see [Freesurfer's wiki](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferWiki) for more information), e.g. recon-all to process anatomical images.
 
-![SessionRunFreesurfer](img/hip-freesurfer\SessionRunFreesurfer.JPG)
+![SessionRunFreesurfer](img/hip-freesurfer/SessionRunFreesurfer.JPG)
 
 6. You can also use Freeview command to display an image
 
-![Freeview](img/hip-freesurfer\Freeview.JPG)
+![Freeview](img/hip-freesurfer/Freeview.JPG)
 
 
 
